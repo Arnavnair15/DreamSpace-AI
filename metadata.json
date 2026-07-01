@@ -1,0 +1,6 @@
+{
+  "name": "DreamSpace AI",
+  "description": "Visualize your dream home before you build it with state-of-the-art AI-powered room styling, real-time comparison sliders, and dynamic design styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
